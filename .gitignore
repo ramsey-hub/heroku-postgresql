@@ -22,3 +22,7 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+git remote เพิ่มต้นกำเนิดhttps://github.com/ramsey-hub/heroku-postgresql.git
+ git branch -M main 
+git push -u origin main
