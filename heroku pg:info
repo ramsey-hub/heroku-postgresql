@@ -1,0 +1,12 @@
+heroku pg:info --app example-app
+=== HEROKU_POSTGRESQL_YELLOW_URL (DATABASE_URL)
+Plan:        Standard 0
+Status:      Available
+Data Size:   584.6 MB
+Tables:      29
+PG Version:  9.2.4
+Connections: 8
+Fork/Follow: Available
+Rollback:    from 2013-10-18 20:00 UTC
+Created:     2013-04-18 20:14 UTC
+Maintenance: not required
